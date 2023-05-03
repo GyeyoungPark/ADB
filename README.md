@@ -5,6 +5,8 @@
 Introduction of NS2
 NS2 stands for Network Simulator Version 2. It is an open-source event-driven simulator designed specifically for research in computer communication networks.
 
+Download at ns2.35 at https://www.isi.edu/nsnam/ns/ns-build.html
+
 Features of NS2
 1. It is a discrete event simulator for networking research.
 
