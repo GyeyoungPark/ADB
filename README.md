@@ -1,4 +1,6 @@
-# ADB- Traffic adaptive Load Balancing using AD-Sketch in Datacenter Networks
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Adaptive%20Load%20Balancing&fontSize=70)
+
+# ADB - Traffic adaptive Load Balancing using AD-Sketch in Datacenter Networks
 
 Introduction of NS2
 NS2 stands for Network Simulator Version 2. It is an open-source event-driven simulator designed specifically for research in computer communication networks.
