@@ -2,6 +2,6 @@
 
 Code Description
 -----------------------------------------------------------------
-Scripts : Tcl code
+scripts : Tcl code (Network Topology, basic setup for simulation)
 
-Classifier : Load balancing algorithm in datacenter switch
+classifier : Load balancing algorithm in datacenter switch
